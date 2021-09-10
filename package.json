@@ -1,0 +1,20 @@
+{
+  "name": "000-jest",
+  "version": "1.0.0",
+  "description": "A test-driven development basecode",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "devincecode",
+    "tdd",
+    "test",
+    "jest"
+  ],
+  "author": "Vince Banzon",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
